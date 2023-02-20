@@ -1,0 +1,23 @@
+.landingPage1 .logo,
+.landingPage1 .profilePic {
+    display: none;
+}
+
+
+.landingPage1 {
+    margin: 3rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.skip {}
+
+.div_skip {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 3rem;
+}

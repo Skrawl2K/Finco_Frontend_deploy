@@ -1,0 +1,18 @@
+.Navigation {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+    gap: 4rem;
+    margin: 1rem;
+    margin-top: 5rem;
+}
+
+.Navigation a img {
+    /* width: 150%; */
+    width: 125%;
+}
+
+.Navigation img {
+    width: 7%;
+}

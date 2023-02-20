@@ -1,0 +1,50 @@
+/* .Article {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    font-size: 1.5rem;
+} */
+
+/* .Article div img {
+    align-self: flex-start;
+} */
+
+.Article {
+    display: flex;
+    flex-direction: column;
+}
+
+.Article div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Article .profilePic {
+    border-radius: 50px;
+    width: 3rem;
+    height: 3rem;
+}
+
+.logo {
+    width: 10%;
+}
+
+.Article article {
+    text-align: center;
+    /* font-size: 1.5rem; */
+    margin: 2rem 0 3rem;
+}
+
+.Article div a {
+    text-align: left;
+}
+
+.Article h1 {
+    font-size: 2rem;
+}
+
+.Article p {
+    font-size: 1.5rem;
+}

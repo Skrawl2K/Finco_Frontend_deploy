@@ -1,0 +1,19 @@
+.landingPage2 {
+    width: 100%;
+    margin: 20% 0%;
+    text-align: center;
+}
+
+.landingPage2 img {
+    width: 40%;
+    margin-bottom: 3rem;
+}
+
+.middleText {
+    width: 100%;
+    margin: 0px auto;
+}
+
+.div_button {
+    margin-top: 3rem;
+}
